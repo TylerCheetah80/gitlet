@@ -1,1 +1,1 @@
-Gitlet is a project from cs61b that is creating a version of the Git version control system.
+Gitlet is a project from cs61b that is creating a version of the Git version control system. Main.java is written by me fully, a few tests were made by me in other files too, some of the tests and other backend files for the tests were given by cs61b. 
